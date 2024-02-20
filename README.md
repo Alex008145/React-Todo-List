@@ -2,6 +2,10 @@ TODO LIST
 
 simple todo app for learning React basics (+ local storage saving)
 
+Live preview
+
+https://react-todo-list-ashen-eight.vercel.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
